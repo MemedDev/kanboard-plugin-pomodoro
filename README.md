@@ -1,7 +1,7 @@
 Pomodoro for Kanboard
 =================
 
-Synchronized team pomodoro timer for Kanboard.
+Synchronized team pomodoro timer [plugin](https://kanboard.net/plugins) for [Kanboard](https://kanboard.net/).
 
 - All users on the same pomodoro interval
 - Configurable work/break intervals
@@ -17,7 +17,7 @@ Author
 Requirements
 ------------
 
-- Kanboard >= 1.0.40
+- [Kanboard](https://kanboard.net/) >= 1.0.40
 
 Installation
 ------------
